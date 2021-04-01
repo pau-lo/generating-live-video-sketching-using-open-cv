@@ -35,5 +35,8 @@ Note:  You can install OpenCV via pip with the following command:
 
 After downloading, run `main.py`.
 
+open-cv-python can be found in the link below:
+https://github.com/opencv/opencv-python
+
 
 
